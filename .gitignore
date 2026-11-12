@@ -1,0 +1,22 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project-specific local files
+settings.json
+
+# Exported data and logs
+*.csv
+*.png
+*.txt
